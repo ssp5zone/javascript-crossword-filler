@@ -1,9 +1,9 @@
 # Javascript Crossword Fitter
 
-This code tries to fill all the blank spaces in the crossword puzzle with the provided solutions. 
+This code tries to fill all the blank spaces in the crossword puzzle with the provided hints. 
 
-The crossword is a _(square)_ matrix with `+` indicating blocked cells and `-` indicating available blank spaces.
-And, solutions are `;` delimited string.
+The crossword is a _(square)_ matrix with `+` indicating blocked cells and `-` indicating available blank spaces.\
+And, hints are `;` delimited string.
 
 **Eg.**
 
@@ -21,7 +21,7 @@ And, solutions are `;` delimited string.
 +++++-++++\
 +++++-++++
 
-2. Solutions\
+2. Hints\
 "LONDON;DELHI;ICELAND;ANKARA"
 
 
